@@ -119,7 +119,7 @@ img,video {
   float: left;
   width: 40px;
   height: 40px;
-  background: url(../images/prev.png) no-repeat;
+  background: url(https://syu-h81.github.io/back-portfolio/images/prev.png) no-repeat;
 }
 
 #next,
@@ -127,5 +127,5 @@ img,video {
   float: left;
   width: 40px;
   height: 40px;
-  background: url(../images/next.png) no-repeat;
+  background: url(https://syu-h81.github.io/back-portfolio/images/next.png) no-repeat;
 }
