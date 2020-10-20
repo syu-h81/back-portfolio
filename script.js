@@ -4,7 +4,7 @@ function gate () {
 }
 
 var images = ['https://syu-h81.github.io/back-portfolio/2998.jpg', 'https://syu-h81.github.io/back-portfolio/2999.jpg','https://syu-h81.github.io/back-portfolio/3000.jpg',
-'images/3001.jpg','https://syu-h81.github.io/back-portfolio//3002.jpg','https://syu-h81.github.io/back-portfolio/3004.jpg'];
+'images/3001.jpg','https://syu-h81.github.io/back-portfolio/3002.jpg','https://syu-h81.github.io/back-portfolio/3004.jpg'];
 var current = 0;
 var changeImage = function(num) {
   if(current + num >= 0 && current + num < images.length) {
